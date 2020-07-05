@@ -18,3 +18,16 @@ body{
 	color: #F1F9FF;
 	opacity: 1;
 }
+.row{
+	height: 19vw;
+	margin: 3vw;
+	
+	
+}
+.card{
+	background: #141414 0% 0% no-repeat padding-box;
+}
+#card-right{
+	background: white;
+}
+
