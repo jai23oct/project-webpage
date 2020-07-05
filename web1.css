@@ -1,0 +1,20 @@
+
+#card-left{
+	background: #01ACBE 0% 0% no-repeat padding-box;
+}
+body{
+	background: #141414 0% 0% no-repeat padding-box;
+}
+#nav1{
+	
+	background: #141414 0% 0% no-repeat padding-box;
+	color: white;
+}
+
+#project-text{
+	font-family: Azonix;
+	font: Regular 60px/24px;
+	letter-spacing: 0px;
+	color: #F1F9FF;
+	opacity: 1;
+}
